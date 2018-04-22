@@ -14,7 +14,7 @@ namespace Project_Euler_C_
             int b = divisorSum(a);
             Console.WriteLine("d(" + a + ") = " + b);
             a = divisorSum(b);
-            v("d(" + b + ") = " + a);
+            Console.WriteLine("d(" + b + ") = " + a);
 
             if (b != a && divisorSum(a) == b)
             {

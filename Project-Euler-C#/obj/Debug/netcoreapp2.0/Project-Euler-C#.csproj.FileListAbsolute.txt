@@ -1,0 +1,10 @@
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\obj\Debug\netcoreapp2.0\Project-Euler-C#.csproj.CoreCompileInputs.cache
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\obj\Debug\netcoreapp2.0\Project-Euler-C#.AssemblyInfoInputs.cache
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\obj\Debug\netcoreapp2.0\Project-Euler-C#.AssemblyInfo.cs
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\bin\Debug\netcoreapp2.0\Project-Euler-C#.deps.json
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\bin\Debug\netcoreapp2.0\Project-Euler-C#.runtimeconfig.json
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\bin\Debug\netcoreapp2.0\Project-Euler-C#.runtimeconfig.dev.json
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\bin\Debug\netcoreapp2.0\Project-Euler-C#.dll
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\bin\Debug\netcoreapp2.0\Project-Euler-C#.pdb
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\obj\Debug\netcoreapp2.0\Project-Euler-C#.dll
+D:\Users\Johnny\Documents\Euler-Project\Project-Euler-C#\obj\Debug\netcoreapp2.0\Project-Euler-C#.pdb
