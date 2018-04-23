@@ -6,11 +6,12 @@ namespace Project_Euler_C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a number: ");
             int n = Convert.ToInt32(Console.ReadLine());
+            isAmicable(n);
         }
 
-        public static void isAmicable(int a){
+        static void isAmicable(int a){
             int b = divisorSum(a);
             Console.WriteLine("d(" + a + ") = " + b);
             a = divisorSum(b);
@@ -26,7 +27,7 @@ namespace Project_Euler_C_
             }
         }
 
-        public static int divisorSum(int n){
+        static int divisorSum(int n){
             int a=0;
             for (int i = 1; i < n; i++)
             {
