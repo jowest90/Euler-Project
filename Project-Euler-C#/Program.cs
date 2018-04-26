@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Project-Euler C#
+Author: John West
+Desc: solving all Euler problems in C#
+ */
+using System;
 
 namespace Project_Euler_C_
 {
@@ -6,9 +11,11 @@ namespace Project_Euler_C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number: ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            isAmicable(n);
+            p001 p1 = new p001();
+            Console.WriteLine("Problem 1: "+p1.run());
+
+            p021 p21 = new p021();
+            Console.WriteLine("Problem 21: " + p21.run());
         }
 
         static void isAmicable(int a){
